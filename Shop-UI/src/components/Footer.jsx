@@ -3,9 +3,9 @@ import {
   Instagram,
   MailOutline,
   Phone,
-  Pinterest,
   Room,
   Twitter,
+  YouTube,
 } from "@material-ui/icons";
 import styled from "styled-components";
 import { mobile } from "../responsive";
@@ -105,7 +105,7 @@ const Footer = () => {
             <Twitter />
           </SocialIcon>
           <SocialIcon color="E60023">
-            <Pinterest />
+            <YouTube />
           </SocialIcon>
         </SocialContainer>
       </Left>
