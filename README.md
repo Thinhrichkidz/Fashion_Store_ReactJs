@@ -1,4 +1,4 @@
-# Howw to run the React Web App
+# How to run the React Web App
 
 First you need to install the NodeJs to your project:
 
