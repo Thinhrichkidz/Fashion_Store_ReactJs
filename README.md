@@ -1,8 +1,10 @@
-# Run the React Web App
+# Howw to run the React Web App
 
-## Available Scripts
+First you need to install the NodeJs to your project:
 
-In the project directory, you can run:
+### `npm i`
+
+In the project terminal, you can run:
 
 ### `npm start`
 
